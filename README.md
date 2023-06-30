@@ -1,1 +1,3 @@
 # Linux-Command
+ls
+cd
