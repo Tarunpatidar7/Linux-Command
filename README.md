@@ -1,3 +1,4 @@
 # Linux-Command
-## ls.md
-## cd.md
+## ls command.md
+## cd command.md
+
