@@ -3,3 +3,4 @@
 - [cd.md](cd%20command.md)
 - [touch.md](touch%20command.md)
 - [cat.md](cat%20command.md)
+- [mkdir.md](mkdir%20command.md)
