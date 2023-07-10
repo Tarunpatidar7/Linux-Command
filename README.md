@@ -5,3 +5,4 @@
 - [cat.md](cat%20command.md)
 - [mkdir.md](mkdir%20command.md)
 - [rm.md](rm%20command.md)
+- [cp.md](cp%20command.md)
