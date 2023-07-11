@@ -6,3 +6,4 @@
 - [mkdir.md](mkdir%20command.md)
 - [rm.md](rm%20command.md)
 - [cp.md](cp%20command.md)
+- [mv.md](mv%20command.md)
