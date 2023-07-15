@@ -8,7 +8,7 @@ mv file newfilename
 ```
 mv file1 file2 newfilename 
 ```
-- i move a file a newlocation
+- -i move a file a newlocation
 ```
 mv -i file newfilename
 ```
