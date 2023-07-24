@@ -9,4 +9,6 @@
 - [mv.md](mv%20command.md)
 - [rmkdir.md](rmkdir%20command.md)
 - [pipesandredirect.md](pipesandrecdirect%20.md)
+- [compressiontools command.md](compressiontools%20command.md)
+- 
   
