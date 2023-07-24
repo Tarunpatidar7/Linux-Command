@@ -8,6 +8,6 @@
 - [cp.md](cp%20command.md)
 - [mv.md](mv%20command.md)
 - [rmkdir.md](rmkdir%20command.md)
-- [pipes and redirect](pipesandredirect%20.md)
+- [pipes and redirect.md](pipesandrecdirect%20.md)
 - 
   
